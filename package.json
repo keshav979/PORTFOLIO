@@ -1,0 +1,12 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "description": "Futuristic 3D portfolio website",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
